@@ -1,6 +1,6 @@
 <div class="wrap_header">
     <!-- Logo -->
-    <a href="<?php echo site_url('frontend/Home') ?>" class="logo">
+    <a href="<?php echo site_url('Home') ?>" class="logo">
         <img src="<?php echo base_url() ?>assets/frontend/image/icon2.png">
     </a>
 
@@ -9,7 +9,7 @@
         <nav class="menu">
             <ul class="main_menu">
                 <li>
-                    <a href="<?php echo site_url('frontend/Home') ?>">Home</a>
+                    <a href="<?php echo site_url('Home') ?>">Home</a>
                 </li>
 
                 <li>
@@ -36,7 +36,7 @@
 <!-- Header Mobile -->
 <div class="wrap_header_mobile">
     <!-- Logo moblie -->
-    <a href="<?php echo site_url('frontend/Home') ?>" class="logo-mobile">
+    <a href="<?php echo site_url('Home') ?>" class="logo-mobile">
         <img src="<?php echo base_url() ?>assets/frontend/image/icon2.png">
     </a>
 
@@ -64,7 +64,7 @@
             <li class="item-topbar-mobile p-l-20 p-t-8 p-b-8">
                 <div class="topbar-child2-mobile">
                     <span class="topbar-email">
-                        goldencare@gmail.com
+                        goldencarewo@gmail.com
                     </span>
 
                     <div class="topbar-language rs1-select2">
@@ -86,7 +86,7 @@
             </li>
 
             <li class="item-menu-mobile">
-                <a href="<?php echo site_url('frontend/Home') ?>">Home</a>
+                <a href="<?php echo site_url('Home') ?>">Home</a>
             </li>
 
             <li class="item-menu-mobile">

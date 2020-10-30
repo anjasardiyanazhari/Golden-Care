@@ -4,10 +4,9 @@
         <div class="row mb-5">
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Hookup</h2>
+                    <h2 class="ftco-heading-2">Golden Care</h2>
                     <p>Far far away, behind the word mountains, far from the countries.</p>
                     <ul class="ftco-footer-social list-unstyled mt-5">
-                        <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                         <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
                         <li class="ftco-animate"><a href="http://www.instagram.com/golden_care_salon"><span class="icon-instagram"></span></a></li>
                     </ul>
@@ -17,12 +16,7 @@
                 <div class="ftco-footer-widget mb-4 ml-md-4">
                     <h2 class="ftco-heading-2">Quick Links</h2>
                     <ul class="list-unstyled">
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Wellness</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Vintge stores</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Trekking</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Tour</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Sightseeing</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Many more..</a></li>
+                        <li><a href="<a href=" <?php echo site_url('Home') ?>"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
                     </ul>
                 </div>
             </div>
@@ -30,14 +24,11 @@
                 <div class="ftco-footer-widget mb-4 ml-md-4">
                     <h2 class="ftco-heading-2">Links</h2>
                     <ul class="list-unstyled">
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Groom &amp; Bride</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Story</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Greetings</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>People</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Where &amp; When</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>RSVP</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Gallery</a></li>
+                        <li><a href="<?php echo site_url('Home') ?>"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+                        <li><a href="<?php echo site_url('frontend/Fasilitas') ?>"><span class="icon-long-arrow-right mr-2"></span>Fasilitas</a></li>
+                        <li><a href="<?php echo site_url('frontend/About') ?>"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+                        <li><a href="<?php echo site_url('frontend/Google_map') ?>"><span class="icon-long-arrow-right mr-2"></span>Google_map</a></li>
+                        <li><a href="<?php echo site_url('frontend/Gallery') ?>"><span class="icon-long-arrow-right mr-2"></span>Gallery</a></li>
                     </ul>
                 </div>
             </div>
@@ -45,10 +36,10 @@
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">Services</h2>
                     <ul class="list-unstyled">
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Organizer</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Venue</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Wedding Ceremony</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Accomodation</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Rias</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Dekorasi</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Catering</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Entertaiment</a></li>
                     </ul>
                 </div>
             </div>
@@ -59,7 +50,7 @@
                         <ul>
                             <li><span class="icon icon-map-marker"></span><span class="text">Jln.Medain Mataram, Lombok, NTB</span></li>
                             <li><a href="#"><span class="icon icon-phone"></span><span class="text">081803667165</span></a></li>
-                            <li><a href="#"><span class="icon icon-envelope pr-4"></span><span class="text">goldencare@gmail.com</span></a></li>
+                            <li><a href="#"><span class="icon icon-envelope pr-4"></span><span class="text">goldencarewo@gmail.com</span></a></li>
                         </ul>
                     </div>
                 </div>
